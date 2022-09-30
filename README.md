@@ -12,11 +12,11 @@
 - [x] [Sort the odd (6 kyu)](Solutions/Sort_the_odd_6kuy.py)
 
 ### Strings:
-- [x] [Get the Middle Character (7 kyu)](Solutions/Get_the_Middle Character_7kyu.py)
+- [x] [Get the Middle Character (7 kyu)](Solutions/Get_the_Middle_Character_7kyu.py)
 - [x] [Baby Shark Lyrics (7 kyu)](Solutions/Baby_Shark_Lyrics_7kyu.py)
 
 ### Algorithms:
-- [x] [Sums of Parts (6 kyu)](Solutions/Sums of Parts_6kuy.py)
+- [x] [Sums of Parts (6 kyu)](Solutions/Sums_of_Parts_6kuy.py)
 
 ### Algebra:
 - [x] [Find the next perfect square! (7 kyu)](Solutions/Find_the_next_perfect_square!_7kyu.py)
