@@ -17,6 +17,7 @@
 
 ### Algorithms:
 - [x] [Sums of Parts (6 kyu)](Solutions/Sums_of_Parts_6kuy.py)
+- [x] [Find the missing term in an Arithmetic Progression (6 kyu)](Solutions/Find_the_missing_term_in_an_Arithmetic_Progression_6kyu.py)
 
 ### Algebra:
 - [x] [Find the next perfect square! (7 kyu)](Solutions/Find_the_next_perfect_square!_7kyu.py)
