@@ -8,8 +8,6 @@ Examples
 10, "blue", "red"  -->  ["blue", "red", "blue", "red", "blue", "red", "blue", "red", "blue", "red"]
 0, "one", "two"    -->  []
 
-Good luck!
-
 """
 
 def alternate(n, first_value, second_value):

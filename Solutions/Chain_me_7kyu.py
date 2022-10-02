@@ -12,7 +12,6 @@ def mul30(x): return x * 30
 
 chain(50, [add10, mul30])
 # returns 1800
-
 """
 
 def chain(init_val, functions):

@@ -1,4 +1,4 @@
-***
+"""
 Easy wallpaper (7 kyu)
 
 John wants to decorate the walls of a room with wallpaper. He wants a fool-proof method for getting it right.
@@ -14,8 +14,7 @@ Example:
 wallpaper(4.0, 3.5, 3.0) should return "ten"
 
 wallpaper(0.0, 3.5, 3.0) should return "zero"
-
-***
+"""
 
 def wallpaper(l, w, h):
     numbers = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve","thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty"]
