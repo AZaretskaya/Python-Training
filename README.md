@@ -14,6 +14,7 @@
 ### Strings:
 - [x] [Get the Middle Character (7 kyu)](Solutions/Get_the_Middle_Character_7kyu.py)
 - [x] [Baby Shark Lyrics (7 kyu)](Solutions/Baby_Shark_Lyrics_7kyu.py)
+- [x] [Your order, please (6 kyu)](Solutions/Your_order_please_6kyu.py)
 
 ### Algorithms:
 - [x] [Sums of Parts (6 kyu)](Solutions/Sums_of_Parts_6kyu.py)
