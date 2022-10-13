@@ -13,6 +13,7 @@
 - [x] [Sort the odd (6 kyu)](Solutions/Sort_the_odd_6kyu.py)
 - [x] [Split all even numbers to odd ones in different ways (6 kyu)](Solutions/Split_all_even_numbers_to_odd_ones_in_different_ways_6kyu.py)
 - [x] [Two Sum (6 kyu)](Solutions/Two_Sum_6kyu.py)
+- [x] [Mexican Wave (6 kyu)](Solutions/Mexican_Wave_6kyu.py)
 
 ### Strings:
 - [x] [Get the Middle Character (7 kyu)](Solutions/Get_the_Middle_Character_7kyu.py)
