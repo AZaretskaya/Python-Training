@@ -7,6 +7,7 @@
 - [x] [Sum of a sequence (7 kyu)](Solutions/Sum_of_a_sequence_7kyu.py)
 - [x] [Easy wallpaper (7 kyu)](Solutions/Easy_wallpaper_7kyu.py)
 - [x] [Categorize New Member (7 kyu)](Solutions/Categorize_New_Member_7kyu.py)
+- [x] [Multi-tap Keypad Text Entry on an Old Mobile Phone (6 kyu)](Solutions/Multi-tap_Keypad_Text_Entry_on_an_Old_Mobile_Phone_6kyu.py)
 
 ### Arrays:
 - [x] [Length and two values (7 kyu)](Solutions/Length_and_two_values_7kyu.py)
