@@ -27,7 +27,7 @@
 - [x] [Sums of Parts (6 kyu)](Solutions/Sums_of_Parts_6kyu.py)
 - [x] [Find the missing term in an Arithmetic Progression (6 kyu)](Solutions/Find_the_missing_term_in_an_Arithmetic_Progression_6kyu.py)
 - [x] [Perimeter of squares in a rectangle (5 kyu)](Solutions/Perimeter_of_squares_in_a_rectangle_5kyu.py)
-- [x] [Does my number look big in this? (6 kyu)](Solutions/Does_my_number_look_big_in_this?_6kyu.py)
+- [x] [Does my number look big in this? (6 kyu)](Solutions/Does_my_number_look_big_in_this_6kyu.py)
 
 ### Algebra:
 - [x] [Find the next perfect square! (7 kyu)](Solutions/Find_the_next_perfect_square!_7kyu.py)
