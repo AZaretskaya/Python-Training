@@ -32,3 +32,8 @@
 
 ### Algebra:
 - [x] [Find the next perfect square! (7 kyu)](Solutions/Find_the_next_perfect_square!_7kyu.py)
+
+### Logic:
+- [x] [Calculate Pyramid Height (6 kyu)](Solutions/Calculate_Pyramid_Height_6_kyu.py)
+
+
