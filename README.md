@@ -9,6 +9,7 @@
 - [x] [Categorize New Member (7 kyu)](Solutions/Categorize_New_Member_7kyu.py)
 - [x] [Multi-tap Keypad Text Entry on an Old Mobile Phone (6 kyu)](Solutions/Multi-tap_Keypad_Text_Entry_on_an_Old_Mobile_Phone_6kyu.py)
 - [x] [Rot13 (5 kyu)](Solutions/Rot13_5kyu.py)
+- [x] [Count the smiley faces! (6 kyu)](Solutions/Count_the_smiley_faces_6kyu.py)
 
 ### Arrays:
 - [x] [Length and two values (7 kyu)](Solutions/Length_and_two_values_7kyu.py)
@@ -34,6 +35,6 @@
 - [x] [Find the next perfect square! (7 kyu)](Solutions/Find_the_next_perfect_square!_7kyu.py)
 
 ### Logic:
-- [x] [Calculate Pyramid Height (6 kyu)](Solutions/Calculate_Pyramid_Height_6_kyu.py)
+- [x] [Calculate Pyramid Height (6 kyu)](Solutions/Calculate_Pyramid_Height_6kyu.py)
 
 
