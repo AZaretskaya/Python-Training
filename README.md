@@ -1,6 +1,6 @@
 # My training Python on CodeWars
 
-## Solved Catas
+## Solved Katas
 ### Fundamentals:
 
 - [x] [Chain me (7 kyu)](Solutions/Chain_me_7kyu.py)
@@ -11,6 +11,7 @@
 - [x] [Rot13 (5 kyu)](Solutions/Rot13_5kyu.py)
 - [x] [Count the smiley faces! (6 kyu)](Solutions/Count_the_smiley_faces_6kyu.py)
 - [x] [Classy Extentions (8 kyu)](Solutions/Classy_Extentions_8kyu.py)
+- [x] [Classy Classes (8 kyu)](Solutions/Classy_Classes_8kyu.py)
 
 ### Arrays:
 - [x] [Length and two values (7 kyu)](Solutions/Length_and_two_values_7kyu.py)
