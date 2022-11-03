@@ -12,6 +12,9 @@
 - [x] [Count the smiley faces! (6 kyu)](Solutions/Count_the_smiley_faces_6kyu.py)
 - [x] [Classy Extentions (8 kyu)](Solutions/Classy_Extentions_8kyu.py)
 - [x] [Classy Classes (8 kyu)](Solutions/Classy_Classes_8kyu.py)
+- [x] [Interactive Dictionary (7 kyu)](Solutions/Interactive_Dictionary_7kyu.py)
+
+
 
 ### Arrays:
 - [x] [Length and two values (7 kyu)](Solutions/Length_and_two_values_7kyu.py)
