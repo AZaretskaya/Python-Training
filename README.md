@@ -37,6 +37,7 @@
 - [x] [Perimeter of squares in a rectangle (5 kyu)](Solutions/Perimeter_of_squares_in_a_rectangle_5kyu.py)
 - [x] [Does my number look big in this? (6 kyu)](Solutions/Does_my_number_look_big_in_this_6kyu.py)
 - [x] [Find the missing letter (6 kyu)](Solutions/Find_the_missing_letter_6kyu.py)
+- [x] [Who has the most money? (6 kyu)](Solutions/Who_has_the_most_money_6kyu.py)
 
 ### Algebra:
 - [x] [Find the next perfect square! (7 kyu)](Solutions/Find_the_next_perfect_square!_7kyu.py)
