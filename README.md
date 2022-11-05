@@ -14,8 +14,6 @@
 - [x] [Classy Classes (8 kyu)](Solutions/Classy_Classes_8kyu.py)
 - [x] [Interactive Dictionary (7 kyu)](Solutions/Interactive_Dictionary_7kyu.py)
 
-
-
 ### Arrays:
 - [x] [Length and two values (7 kyu)](Solutions/Length_and_two_values_7kyu.py)
 - [x] [Sort the odd (6 kyu)](Solutions/Sort_the_odd_6kyu.py)
@@ -23,6 +21,7 @@
 - [x] [Two Sum (6 kyu)](Solutions/Two_Sum_6kyu.py)
 - [x] [Mexican Wave (6 kyu)](Solutions/Mexican_Wave_6kyu.py)
 - [x] [The Supermarket Queue (6 kyu)](Solutions/The_Supermarket_Queue_6kyu.py)
+- [x] [Sum of positive (8 kyu)](Solutions/Sum_of_positive_8kyu.py)
 
 ### Strings:
 - [x] [Get the Middle Character (7 kyu)](Solutions/Get_the_Middle_Character_7kyu.py)
