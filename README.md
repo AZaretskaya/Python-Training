@@ -40,6 +40,7 @@
 - [x] [Find the missing letter (6 kyu)](Solutions/Find_the_missing_letter_6kyu.py)
 - [x] [Who has the most money? (6 kyu)](Solutions/Who_has_the_most_money_6kyu.py)
 - [x] [Minimum Perimeter of a Rectangle (7 kyu)](Solutions/Minimum_Perimeter_of_a_Rectangle_7kyu.py)
+- [x] [Multiples of 3 or 5 (6 kyu)](Solutions/Multiples_of_3or5_6kyu.py)
 
 ### Algebra:
 - [x] [Find the next perfect square! (7 kyu)](Solutions/Find_the_next_perfect_square!_7kyu.py)
