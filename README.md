@@ -31,6 +31,7 @@
 - [x] [Your order, please (6 kyu)](Solutions/Your_order_please_6kyu.py)
 - [x] [Char Code Calculation (7 kyu)](Solutions/Char_Code_Calculation_7kyu.py)
 - [x] [Rainfall (6 kyu)](Solutions/Rainfall_6kyu.py)
+- [x] [Replace With Alphabet Position (6 kyu)](Solutions/Replace_With_Alphabet_Position_6kyu.py)
 
 ### Algorithms:
 - [x] [Sums of Parts (6 kyu)](Solutions/Sums_of_Parts_6kyu.py)
