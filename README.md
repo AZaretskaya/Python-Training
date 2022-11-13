@@ -42,6 +42,7 @@
 - [x] [Who has the most money? (6 kyu)](Solutions/Who_has_the_most_money_6kyu.py)
 - [x] [Minimum Perimeter of a Rectangle (7 kyu)](Solutions/Minimum_Perimeter_of_a_Rectangle_7kyu.py)
 - [x] [Multiples of 3 or 5 (6 kyu)](Solutions/Multiples_of_3or5_6kyu.py)
+- [x] [Valid Parentheses (5 kyu)](Solutions/Valid_Parentheses_5kyu.py)
 
 ### Algebra:
 - [x] [Find the next perfect square! (7 kyu)](Solutions/Find_the_next_perfect_square!_7kyu.py)
