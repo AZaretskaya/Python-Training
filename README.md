@@ -43,6 +43,7 @@
 - [x] [Minimum Perimeter of a Rectangle (7 kyu)](Solutions/Minimum_Perimeter_of_a_Rectangle_7kyu.py)
 - [x] [Multiples of 3 or 5 (6 kyu)](Solutions/Multiples_of_3or5_6kyu.py)
 - [x] [Valid Parentheses (5 kyu)](Solutions/Valid_Parentheses_5kyu.py)
+- [x] [Sum of Digits / Digital Root (6 kyu)](Solutions/Sum_of_Digits_Digital_Root_6kyu.py)
 
 ### Algebra:
 - [x] [Find the next perfect square! (7 kyu)](Solutions/Find_the_next_perfect_square!_7kyu.py)
