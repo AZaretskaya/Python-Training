@@ -24,6 +24,8 @@
 - [x] [Mexican Wave (6 kyu)](Solutions/Mexican_Wave_6kyu.py)
 - [x] [The Supermarket Queue (6 kyu)](Solutions/The_Supermarket_Queue_6kyu.py)
 - [x] [Sum of positive (8 kyu)](Solutions/Sum_of_positive_8kyu.py)
+- [x] [Array.diff (6 kyu)](Solutions/Array_diff_6kyu.py)
+
 
 ### Strings:
 - [x] [Get the Middle Character (7 kyu)](Solutions/Get_the_Middle_Character_7kyu.py)
