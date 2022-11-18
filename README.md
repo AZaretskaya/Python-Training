@@ -35,6 +35,7 @@
 - [x] [Rainfall (6 kyu)](Solutions/Rainfall_6kyu.py)
 - [x] [Replace With Alphabet Position (6 kyu)](Solutions/Replace_With_Alphabet_Position_6kyu.py)
 - [x] [String incrementer (5 kyu)](Solutions/String_incrementer_5kyu.py)
+- [x] [Create Phone Number (6 kyu)](Solutions/Create_Phone_Number_6kyu.py)
 
 ### Algorithms:
 - [x] [Sums of Parts (6 kyu)](Solutions/Sums_of_Parts_6kyu.py)
