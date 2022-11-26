@@ -38,6 +38,7 @@
 - [x] [Create Phone Number (6 kyu)](Solutions/Create_Phone_Number_6kyu.py)
 - [x] [Build Tower (6 kyu)](Solutions/Build_Tower_6kyu.py)
 - [x] [Detect Pangram (6 kyu)](Solutions/Detect_Pangram_6kyu.py)
+- [x] [First non-repeating character (5 kyu)](Solutions/First_non-repeating_character_5kyu.py)
 
 ### Algorithms:
 - [x] [Sums of Parts (6 kyu)](Solutions/Sums_of_Parts_6kyu.py)
