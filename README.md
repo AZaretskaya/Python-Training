@@ -15,6 +15,7 @@
 - [x] [Interactive Dictionary (7 kyu)](Solutions/Interactive_Dictionary_7kyu.py)
 - [x] [Multiply (8 kyu)](Solutions/Multiply_8kyu.py)
 - [x] [Speed Control (7 kyu)](Solutions/Speed_Control_7kyu.py)
+- [x] [Playing with digits (6 kyu)](Solutions/Playing_with_digits-6kyu.py)
 
 ### Arrays:
 - [x] [Length and two values (7 kyu)](Solutions/Length_and_two_values_7kyu.py)
