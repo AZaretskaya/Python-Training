@@ -27,6 +27,7 @@
 - [x] [Sum of positive (8 kyu)](Solutions/Sum_of_positive_8kyu.py)
 - [x] [Array.diff (6 kyu)](Solutions/Array_diff_6kyu.py)
 - [x] [Moving Zeros To The End (5 kyu)](Solutions/Moving_Zeros_To_The_End_5kyu.py)
+- [x] [Find the unique number (6 kyu)](Solutions/Find_the_unique_number_6kyu.py)
 
 ### Strings:
 - [x] [Get the Middle Character (7 kyu)](Solutions/Get_the_Middle_Character_7kyu.py)
