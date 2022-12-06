@@ -57,6 +57,7 @@
 - [x] [Bit Counting (6 kyu)](Solutions/Bit_Counting_6kyu.py)
 - [x] [Find The Parity Outlier (6 kyu)](Solutions/Find_The_Parity_Outlier_6kyu.py)
 - [x] [RGB To Hex Conversion (5 kyu)](Solutions/RGB_To_Hex_Conversion_5kyu.py)
+- [x] [Unique In Order (6 kyu)](Solutions/Unique_In_Order_6kyu.py)
 
 ### Algebra:
 - [x] [Find the next perfect square! (7 kyu)](Solutions/Find_the_next_perfect_square!_7kyu.py)
