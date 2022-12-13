@@ -28,6 +28,7 @@
 - [x] [Array.diff (6 kyu)](Solutions/Array_diff_6kyu.py)
 - [x] [Moving Zeros To The End (5 kyu)](Solutions/Moving_Zeros_To_The_End_5kyu.py)
 - [x] [Find the unique number (6 kyu)](Solutions/Find_the_unique_number_6kyu.py)
+- [x] [Delete occurrences of an element if it occurs more than n times (6 kyu)](Delete_occurrences_of_an_element_if_it_occurs_more_than_n_times_6kyu.py)
 
 ### Strings:
 - [x] [Get the Middle Character (7 kyu)](Solutions/Get_the_Middle_Character_7kyu.py)
